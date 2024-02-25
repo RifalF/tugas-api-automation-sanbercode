@@ -1,0 +1,23 @@
+{
+  "name": "tugas-api-automation-sanbercode",
+  "version": "1.0.0",
+  "description": "Tugas API Automation Sanbercode",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "RifalF",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "jsonschema": "^1.4.1",
+    "mocha": "^10.3.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.4"
+  }
+}
